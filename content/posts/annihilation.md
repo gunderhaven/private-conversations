@@ -19,7 +19,7 @@ I’ll get to what I mean by that, but first I’ll drop in my two cents about h
 
 Nevertheless, here it is. 
 
-2.
+## 2.
 
 The movie is, on the whole, shot beautifully. It was directed by Alex Garland, whom I know from Ex Machina, which was not terrible and much more commercially accessible if you haven’t watched it [^1]. 
 
@@ -41,11 +41,11 @@ And I guess that’s all I have to say about that. I’ll jump into the (maybe o
 
 What is the point of making it an all-female ensemble cast?
 
-3. 
+## 3. 
 
 There is no point. 
 
-4. 
+## 4. 
 
 Here’s the deal.
 
