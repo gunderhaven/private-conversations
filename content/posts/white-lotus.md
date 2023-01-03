@@ -47,8 +47,7 @@ A side character that also makes a big impression is Quentin. Tom Hollander, who
 
 Everyone else is kinda meh to me. Except for... my main squeeze Albert Di Grasso. F. Murray Abraham, god bless him, just knocks it out of the park in this role. Every scene with this man needs to be on the UNESCO list of intangible cultural heritage. There are too many to count but I'll just let this one make my case:
 
-<iframe width="992" height="620" src="https://www.youtube.com/embed/OAT8AEKD4Jo" title="its a penis not a sunset white lotus clip that makes me laugh." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+{{< youtube id="OAT8AEKD4Jo" >}}
 
 ## 3
 
@@ -86,7 +85,8 @@ Together, the family serves as a complex cautionary tale. On the one hand, we ne
 
 Tanya is the most extreme case of the individual so trapped in the gaze that there is no realistic way of ever making it back. There is no self to return to because she was never given the chance to build anything of substance to begin with that wasn't a refraction of her environment. Consider the question she asks Quentin in this scene and the context in which she asks it.
 
-<iframe width="992" height="620" src="https://www.youtube.com/embed/6eOApsl7Swo" title="The White Lotus - Tanya lost her mind "shooting scene"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="6eOApsl7Swo" >}}
+<br>
 
 As Quentin foreshadows several times, Tanya ends up being a Puccinian heroine in the end. When the last gaze is averted, she finally tries to marshal an escape into self-agency. But there's nothing on the other side of the wall; and that's exactly what she ends up finding.
 
