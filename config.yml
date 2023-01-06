@@ -7,7 +7,7 @@ theme: PaperMod
 params:
     homeInfoParams:
         Title: Private Conversations With Hideous People
-        Content: The way we think about things can't be the way we talk about things. It's just not practical. Here, you'll find feature-length conversation I wish I could have had with people; only here they're entirely one-sided.
+        Content: The way we think about things can't be the way we talk about things. It's just not practical. Here, you'll find feature-length conversations I wish I could have had with people; only here they're entirely one-sided.
     ShowReadingTime: false
 
 menu:
